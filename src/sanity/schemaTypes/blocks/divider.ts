@@ -5,6 +5,6 @@ export default defineType({
   title: "Divisor",
   type: "object",
   icon: () => "➖",
-  fields: [{ name: "_placeholder", type: "boolean", hidden: true }],
+  fields: [{ name: "note", title: "Nota interna (opcional)", type: "string", hidden: true }],
   preview: { prepare: () => ({ title: "Divisor" }) },
 });
