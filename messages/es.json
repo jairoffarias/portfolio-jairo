@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "siteName": "Jairo Farias",
+    "tagline": "Creative Strategist & Creative Technologist"
+  },
+  "nav": {
+    "home": "Inicio",
+    "work": "Proyectos",
+    "webDevelopment": "Desarrollo Web",
+    "playground": "Playground",
+    "about": "Sobre mí",
+    "contact": "Contacto",
+    "startProject": "Iniciar un proyecto"
+  },
+  "footer": {
+    "description": "Portafolio internacional enfocado en estrategia creativa, dirección creativa y desarrollo web de alto rendimiento.",
+    "sitemap": "Mapa del sitio",
+    "social": "Redes sociales",
+    "legal": "Legal",
+    "privacy": "Política de privacidad",
+    "rights": "Todos los derechos reservados.",
+    "backToTop": "Volver arriba"
+  },
+  "home": {
+    "heroKicker": "Portafolio 2026",
+    "heroTitle": "Estrategia, dirección creativa y código — en un solo lugar.",
+    "heroSubtitle": "Ayudo a marcas y productos a convertirse en experiencias digitales memorables, combinando pensamiento estratégico, dirección creativa e ingeniería front-end de alto nivel.",
+    "heroCta": "Ver proyectos",
+    "heroCtaSecondary": "Hablar sobre un proyecto",
+    "servicesKicker": "Qué hago",
+    "servicesTitle": "Servicios",
+    "workKicker": "Trabajos seleccionados",
+    "workTitle": "Proyectos destacados",
+    "workCta": "Ver todos los proyectos",
+    "clientsKicker": "Confianza",
+    "clientsTitle": "Marcas y equipos con los que he trabajado",
+    "aboutKicker": "Sobre mí",
+    "aboutTitle": "Un poco sobre mi forma de trabajar",
+    "aboutCta": "Conocer la trayectoria completa",
+    "testimonialsKicker": "Testimonios",
+    "testimonialsTitle": "Lo que dicen sobre el trabajo",
+    "ctaTitle": "¿Tienes un proyecto en mente?",
+    "ctaSubtitle": "Hablemos sobre estrategia, diseño y cómo convertirlo en una experiencia digital real.",
+    "ctaButton": "Iniciar conversación"
+  },
+  "work": {
+    "kicker": "Proyectos",
+    "title": "Trabajo seleccionado",
+    "subtitle": "Una selección de proyectos que combinan estrategia, dirección creativa y desarrollo web — para marcas, productos y equipos que buscan una presencia digital de alto nivel.",
+    "filterAll": "Todos",
+    "viewProject": "Ver proyecto",
+    "empty": "No se encontraron proyectos con este filtro."
+  },
+  "webDevelopment": {
+    "kicker": "Servicio",
+    "title": "Desarrollo Web",
+    "subtitle": "Sitios y productos digitales construidos con arquitectura moderna, rendimiento real y experiencia de usuario refinada — desde el primer sprint hasta el despliegue en producción.",
+    "approachTitle": "Cómo trabajo",
+    "stackTitle": "Tecnologías que utilizo",
+    "processTitle": "Proceso",
+    "process": [
+      {
+        "title": "Descubrimiento",
+        "description": "Comprensión del negocio, la audiencia y los objetivos antes de cualquier decisión de diseño o tecnología."
+      },
+      {
+        "title": "Estrategia y Arquitectura",
+        "description": "Definición de la arquitectura de información, el stack técnico y el plan de contenido."
+      },
+      {
+        "title": "Diseño y Prototipado",
+        "description": "Dirección de arte, sistema visual y prototipos navegables, con enfoque editorial y de rendimiento."
+      },
+      {
+        "title": "Desarrollo",
+        "description": "Implementación con Next.js, TypeScript y un CMS headless, priorizando rendimiento, SEO y accesibilidad."
+      },
+      {
+        "title": "Despliegue y Evolución",
+        "description": "Publicación, monitoreo y evolución continua basada en datos reales de uso."
+      }
+    ]
+  },
+  "playground": {
+    "kicker": "Experimentos",
+    "title": "Playground",
+    "subtitle": "Estudios visuales, prototipos de interacción y experimentos técnicos — fuera del contexto de proyectos con cliente."
+  },
+  "about": {
+    "kicker": "Sobre mí",
+    "title": "Jairo Farias",
+    "introTitle": "La estrategia creativa se encuentra con la ingeniería front-end",
+    "servicesTitle": "Áreas de actuación",
+    "technologiesTitle": "Herramientas y tecnologías",
+    "creditsTitle": "Créditos y colaboraciones"
+  },
+  "contact": {
+    "kicker": "Contacto",
+    "title": "Construyamos algo juntos",
+    "subtitle": "Cuéntame un poco sobre tu proyecto. Normalmente respondo en un plazo de 2 días hábiles.",
+    "form": {
+      "name": "Nombre",
+      "namePlaceholder": "Tu nombre completo",
+      "email": "Correo electrónico",
+      "emailPlaceholder": "tu@empresa.com",
+      "company": "Empresa (opcional)",
+      "companyPlaceholder": "Nombre de la empresa",
+      "budget": "Presupuesto estimado (opcional)",
+      "budgetPlaceholder": "Selecciona un rango",
+      "message": "Mensaje",
+      "messagePlaceholder": "Cuéntame un poco sobre el proyecto, plazos y objetivos.",
+      "submit": "Enviar mensaje",
+      "submitting": "Enviando...",
+      "success": "¡Mensaje enviado con éxito! Te responderé pronto.",
+      "error": "No fue posible enviar tu mensaje ahora. Inténtalo de nuevo en unos instantes.",
+      "demoNotice": "Entorno de demostración: las integraciones de correo y base de datos aún no están configuradas.",
+      "budgetOptions": [
+        "Hasta $1.000",
+        "$1.000 – $3.000",
+        "$3.000 – $8.000",
+        "Más de $8.000",
+        "A definir"
+      ]
+    },
+    "directTitle": "Contacto directo",
+    "socialTitle": "Redes sociales"
+  },
+  "privacy": {
+    "kicker": "Legal",
+    "title": "Política de privacidad",
+    "lastUpdated": "Última actualización"
+  },
+  "notFound": {
+    "kicker": "Error 404",
+    "title": "Esta página no existe",
+    "subtitle": "La página que buscas puede haber sido movida, renombrada o nunca existió.",
+    "cta": "Volver al inicio"
+  },
+  "common": {
+    "readMore": "Saber más",
+    "loading": "Cargando...",
+    "role": "Creative Strategist, Creative Director, Creative Technologist & Web Developer",
+    "basedIn": "Con sede en Brasil · Actuación internacional",
+    "availableForWork": "Disponible para nuevos proyectos",
+    "credits": "Créditos",
+    "results": "Resultados",
+    "strategy": "Estrategia",
+    "concept": "Concepto",
+    "challenge": "Desafío",
+    "execution": "Ejecución",
+    "technologies": "Tecnologías",
+    "team": "Equipo",
+    "year": "Año",
+    "client": "Cliente",
+    "services": "Servicios",
+    "nextProject": "Próximo proyecto"
+  }
+}

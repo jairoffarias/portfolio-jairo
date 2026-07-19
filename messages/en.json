@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "siteName": "Jairo Farias",
+    "tagline": "Creative Strategist & Creative Technologist"
+  },
+  "nav": {
+    "home": "Home",
+    "work": "Work",
+    "webDevelopment": "Web Development",
+    "playground": "Playground",
+    "about": "About",
+    "contact": "Contact",
+    "startProject": "Start a project"
+  },
+  "footer": {
+    "description": "International portfolio focused on creative strategy, creative direction and high-performance web development.",
+    "sitemap": "Sitemap",
+    "social": "Social",
+    "legal": "Legal",
+    "privacy": "Privacy policy",
+    "rights": "All rights reserved.",
+    "backToTop": "Back to top"
+  },
+  "home": {
+    "heroKicker": "Portfolio 2026",
+    "heroTitle": "Strategy, creative direction and code — in one place.",
+    "heroSubtitle": "I help brands and products become memorable digital experiences, blending strategic thinking, creative direction and high-level front-end engineering.",
+    "heroCta": "View work",
+    "heroCtaSecondary": "Talk about a project",
+    "servicesKicker": "What I do",
+    "servicesTitle": "Services",
+    "workKicker": "Selected work",
+    "workTitle": "Featured projects",
+    "workCta": "View all projects",
+    "clientsKicker": "Trust",
+    "clientsTitle": "Brands and teams I've worked with",
+    "aboutKicker": "About",
+    "aboutTitle": "A bit about how I work",
+    "aboutCta": "See the full journey",
+    "testimonialsKicker": "Testimonials",
+    "testimonialsTitle": "What people say about the work",
+    "ctaTitle": "Have a project in mind?",
+    "ctaSubtitle": "Let's talk about strategy, design and how to turn it into a real digital experience.",
+    "ctaButton": "Start a conversation"
+  },
+  "work": {
+    "kicker": "Work",
+    "title": "Selected work",
+    "subtitle": "A selection of projects that combine strategy, creative direction and web development — for brands, products and teams looking for a high-level digital presence.",
+    "filterAll": "All",
+    "viewProject": "View project",
+    "empty": "No projects found for this filter."
+  },
+  "webDevelopment": {
+    "kicker": "Service",
+    "title": "Web Development",
+    "subtitle": "Websites and digital products built with modern architecture, real performance and refined user experience — from the first sprint to production deploy.",
+    "approachTitle": "How I work",
+    "stackTitle": "Technologies I use",
+    "processTitle": "Process",
+    "process": [
+      {
+        "title": "Discovery",
+        "description": "Understanding the business, audience and goals before any design or technology decision."
+      },
+      {
+        "title": "Strategy & Architecture",
+        "description": "Defining information architecture, technical stack and content plan."
+      },
+      {
+        "title": "Design & Prototyping",
+        "description": "Art direction, visual system and clickable prototypes, with an editorial and performance focus."
+      },
+      {
+        "title": "Development",
+        "description": "Implementation with Next.js, TypeScript and a headless CMS, prioritizing performance, SEO and accessibility."
+      },
+      {
+        "title": "Deploy & Evolution",
+        "description": "Launch, monitoring and continuous evolution based on real usage data."
+      }
+    ]
+  },
+  "playground": {
+    "kicker": "Experiments",
+    "title": "Playground",
+    "subtitle": "Visual studies, interaction prototypes and technical experiments — outside the context of client work."
+  },
+  "about": {
+    "kicker": "About",
+    "title": "Jairo Farias",
+    "introTitle": "Creative strategy meets front-end engineering",
+    "servicesTitle": "Areas of work",
+    "technologiesTitle": "Tools and technologies",
+    "creditsTitle": "Credits and collaborations"
+  },
+  "contact": {
+    "kicker": "Contact",
+    "title": "Let's build something together",
+    "subtitle": "Tell me a bit about your project. I usually reply within 2 business days.",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your full name",
+      "email": "Email",
+      "emailPlaceholder": "you@company.com",
+      "company": "Company (optional)",
+      "companyPlaceholder": "Company name",
+      "budget": "Estimated budget (optional)",
+      "budgetPlaceholder": "Select a range",
+      "message": "Message",
+      "messagePlaceholder": "Tell me a bit about the project, timeline and goals.",
+      "submit": "Send message",
+      "submitting": "Sending...",
+      "success": "Message sent successfully! I'll get back to you soon.",
+      "error": "Couldn't send your message right now. Please try again shortly.",
+      "demoNotice": "Demo environment: email and database integrations are not configured yet.",
+      "budgetOptions": [
+        "Up to $1,000",
+        "$1,000 – $3,000",
+        "$3,000 – $8,000",
+        "Above $8,000",
+        "To be defined"
+      ]
+    },
+    "directTitle": "Direct contact",
+    "socialTitle": "Social"
+  },
+  "privacy": {
+    "kicker": "Legal",
+    "title": "Privacy policy",
+    "lastUpdated": "Last updated"
+  },
+  "notFound": {
+    "kicker": "Error 404",
+    "title": "This page doesn't exist",
+    "subtitle": "The page you're looking for may have been moved, renamed, or never existed.",
+    "cta": "Back to home"
+  },
+  "common": {
+    "readMore": "Read more",
+    "loading": "Loading...",
+    "role": "Creative Strategist, Creative Director, Creative Technologist & Web Developer",
+    "basedIn": "Based in Brazil · Working internationally",
+    "availableForWork": "Available for new projects",
+    "credits": "Credits",
+    "results": "Results",
+    "strategy": "Strategy",
+    "concept": "Concept",
+    "challenge": "Challenge",
+    "execution": "Execution",
+    "technologies": "Technologies",
+    "team": "Team",
+    "year": "Year",
+    "client": "Client",
+    "services": "Services",
+    "nextProject": "Next project"
+  }
+}
